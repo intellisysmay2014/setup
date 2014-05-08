@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cp dev_tools/mingw/profile /c/utils/mingw/msys/1.0/etc

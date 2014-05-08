@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cp dev_tools/bash/bashrc.dotfile ~/.bashrc
+cp dev_tools/bash/bash_ssh.dotfile ~/.bash_ssh
+cp dev_tools/git/gitconfig.dotfile ~/.gitconfig
